@@ -15,7 +15,9 @@ def testIsEven():  # Сделаем функцию для тестировани
     printIsEven(2)
     printIsEven(39)
     printIsEven(982)
+    printIsEven(10102)
     printIsEven(89123751)
+    printIsEven(574823745893274593742593)
     print('Введите число для проверки на четность:', end='')
     printIsEven(int(input()))
 
